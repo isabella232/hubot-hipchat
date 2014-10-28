@@ -13,12 +13,12 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/dustMason/hubot-hipchat/raw/master/LICENSE"
+      "url": "http://github.com/nuts/hubot-hipchat/raw/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/dustMason/hubot-hipchat.git"
+    "url": "http://github.com/nuts/hubot-hipchat.git"
   },
   "license": "MIT",
   "main": "./src/hipchat",
