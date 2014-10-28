@@ -1,8 +1,8 @@
 {
-  "name": "hubot-hipchat",
+  "name": "hubot-hipchat-nuts",
   "version": "2.7.5",
   "author": "HipChat <support@hipchat.com>",
-  "description": "A Hipchat adapter for Hubot",
+  "description": "A Hipchat adapter for Hubot, fixed to be more threadsafe for our hubot deployment",
   "keywords": [
     "hipchat",
     "hubot",
@@ -13,12 +13,12 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/hipchat/hubot-hipchat/raw/master/LICENSE"
+      "url": "http://github.com/dustMason/hubot-hipchat/raw/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/hipchat/hubot-hipchat.git"
+    "url": "http://github.com/dustMason/hubot-hipchat.git"
   },
   "license": "MIT",
   "main": "./src/hipchat",
